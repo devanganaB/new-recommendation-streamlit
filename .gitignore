@@ -2,3 +2,4 @@
 myenv
 
 model/similarity.pkl
+.env
